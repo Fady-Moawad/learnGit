@@ -7,7 +7,7 @@ $git add .
 save files
 $git commit -m "message"
 
-upload files
+upload files for any brnch
 $git push -u origin name_branch(master)
 
 take copy of files for first times after that git pull
@@ -15,6 +15,14 @@ $git clone (link) https://github.com/Fady-Moawad/learnGit.git
 
 link GitHub
 $git remote add origin (link) https://github.com/YOUR_NAME/hello-project.git
- 
+
+// base branch main or master , master is defualt branch
+
 see all branches 
 $git branch
+
+create new branch
+$git branch name_branch
+
+swap branch
+$git checkout name_branch_want_to_go
