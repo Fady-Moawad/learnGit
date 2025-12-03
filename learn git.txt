@@ -8,5 +8,9 @@ git add .
 save files
 git commit -m "message"
 
+upload files
+git push -u origin branch(master)
+
+
 connect to GitHub
 git remote add origin https://github.com/YOUR_NAME/hello-project.git link
