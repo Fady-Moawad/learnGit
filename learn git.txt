@@ -1,19 +1,20 @@
 craete git repo in desktop
-git init
+$git init
 
 add files
-git add .
+$git add .
 
 save files
-git commit -m "message"
+$git commit -m "message"
 
 upload files
-git push -u origin name_branch(master)
+$git push -u origin name_branch(master)
 
 take copy of files for first times after that git pull
-git clone (link) https://github.com/Fady-Moawad/learnGit.git
+$git clone (link) https://github.com/Fady-Moawad/learnGit.git
 
 link GitHub
-git remote add origin (link) https://github.com/YOUR_NAME/hello-project.git
+$git remote add origin (link) https://github.com/YOUR_NAME/hello-project.git
  
-next step
+see all branches 
+$git branch
