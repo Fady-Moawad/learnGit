@@ -26,3 +26,13 @@ $git branch name_branch
 
 swap branch
 $git checkout name_branch_want_to_go
+
+merge لازم تبقى واقف على الفرع اللي هيستقبل التغييرات و تعمل دمج مع الفرع اللي عاوز تنقل منه
+$git merge name_branch
+master الي test عاوز تنقل شغل من 
+
+الخطوات الصح:
+git checkout master     ← اقف على اللي هيستقبل
+git merge test          ← دمج test جوا master
+git push origin master  ← ارفع التغيير على GitHub
+push لازم تعمل merge خلي بالك بعد ما تعمل 
