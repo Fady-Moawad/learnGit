@@ -7,3 +7,6 @@ git add .
 
 save files
 git commit -m "message"
+
+connect to GitHub
+git remote add origin https://github.com/YOUR_NAME/hello-project.git link
