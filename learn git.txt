@@ -1,2 +1,9 @@
 craete git
 git init
+
+
+add files
+git add .
+
+save files
+git commit -m "message"
