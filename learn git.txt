@@ -10,7 +10,7 @@ git commit -m "message"
 upload files
 git push -u origin name_branch(master)
 
-take copy of files 
+take copy of files for first times after that git pull
 git clone (link) https://github.com/Fady-Moawad/learnGit.git
 
 link GitHub
