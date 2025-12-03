@@ -1,6 +1,5 @@
-craete git
+craete git repo in desktop
 git init
-
 
 add files
 git add .
@@ -9,8 +8,10 @@ save files
 git commit -m "message"
 
 upload files
-git push -u origin branch(master)
+git push -u origin name_branch(master)
 
+take copy of files 
+git clone (link) https://github.com/Fady-Moawad/learnGit.git
 
-connect to GitHub
-git remote add origin https://github.com/YOUR_NAME/hello-project.git link
+link GitHub
+git remote add origin (link) https://github.com/YOUR_NAME/hello-project.git
